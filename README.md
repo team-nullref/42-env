@@ -47,8 +47,6 @@ Lancez la machine virtuelle avec votre hyperviseur. Connectez-vous ensuite avec 
 - `username`: standard
 - `password`: password
 
-Exécutez ensuite le script Shell qui se localise dans le dossier **Documents** (`/home/standard/Documents`), sélectionnez une langue puis suivez les instructions.
-
 ### Profiter
 
 La machine virtuelle devrait être configurée. Vous pouvez l'utiliser pour vos révisions (pour recommencer la piscine par exemple).
@@ -62,6 +60,7 @@ Pour compléter votre expérience, voici quelques projets qui vous aideront et q
 
 - [42bash](https://github.com/SaikoroAsh/Bash42)
 - [c_formatter_42](https://github.com/dawnbeen/c_formatter_42)
+- [42-Exos](https://github.com/Syxpi/42-Exos)
 
 ## Contribution
 
